@@ -33,7 +33,7 @@ app.post('/chat', (req, res) => {
   }
 
   // Respond to the user
-  res.json({ response: botResponse });
+  res.json({ response: botResponse }) ;
 });
 
 // Start the server
