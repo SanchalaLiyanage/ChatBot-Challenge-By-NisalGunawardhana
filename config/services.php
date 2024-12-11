@@ -37,9 +37,9 @@ return [
 
     //uncomment this code
 
-    // 'openai' => [
-    //     'api_url' => env('AZURE_BOT_API_URL'),
-    //     'api_key' => env('AZURE_BOT_API_KEY'),
-    // ],
+    'openai' => [
+        'api_url' => env('https://ai-sanchliyanageinfo2183ai608103704701.openai.azure.com/'),
+        'api_key' => env('DMAfUNdpUxbVF2vIVR7TLOYtejNoXvrfNTGkptP5hDboCf3VAlQzJQQJ99ALACHYHv6XJ3w3AAAAACOGoUB6'),
+    ],
 
 ];
